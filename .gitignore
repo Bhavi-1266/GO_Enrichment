@@ -21,3 +21,7 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# GO enrichment pipeline downloads and virtual environment
+input/
+.venv/
